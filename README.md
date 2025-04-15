@@ -1,5 +1,6 @@
 # hotels
 Repository for hotel demo project
+
 Created a spring boot application exposing two REST end points for the given commands. Parameters are passed in URL as path variable.
 
 Command 1-
